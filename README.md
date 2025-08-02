@@ -1,0 +1,2 @@
+# Real Estate Website
+A real estate website is an online platform where properties for sale or rent are listed and can be accessed by buyers, sellers, and renters. These websites serve as a digital marketplace, connecting individuals and real estate professionals. They can range from simple listing sites to complex marketplaces with various features like property search, virtual tours, and even transaction management. 
